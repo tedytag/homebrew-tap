@@ -1,6 +1,6 @@
 cask "notchtint" do
-  version "1.0.0"
-  sha256 "68930089be4ab47b2972b7ce5b79361ee488efe934058b44ae12633b8d2dd5cd"
+  version "1.0.1"
+  sha256 "f704e2f8c6a823354155ca3adc409add1ef219fbecef74cc3692212f2de51ce0"
 
   url "https://github.com/tedytag/notchtint/releases/download/v#{version}/NotchTint.zip"
   name "NotchTint"
